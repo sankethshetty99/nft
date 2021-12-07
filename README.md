@@ -25,12 +25,12 @@ Users should be able to:
 
 ### Screenshot
 
-![./screenshot.png]
+![Screenshot](./screenshot.png)
 
 ### Links
 
-- Solution URL: [https://github.com/sankethsshetty/nft]
-- Live Site URL: [https://sankethsshetty.github.io/nft/]
+- Solution URL: [Github](https://github.com/sankethsshetty/nft)
+- Live Site URL: [Live Here](https://sankethsshetty.github.io/nft/)
 
 ## My process
 
@@ -45,5 +45,5 @@ Users should be able to:
 ## Author
 
 - Website - [Sanketh Shetty](https://twitter.com/Sankethshetty92)
-- Frontend Mentor - [@sankethsshetty)](https://www.frontendmentor.io/profile/sankethsshetty)
-- Twitter - [@Sankethshetty92)](https://twitter.com/Sankethshetty92)
+- Frontend Mentor - [@sankethsshetty](https://www.frontendmentor.io/profile/sankethsshetty)
+- Twitter - [@Sankethshetty92](https://twitter.com/Sankethshetty92)
